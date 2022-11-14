@@ -25,6 +25,6 @@ Other - </br>
 6. Run the Home.py app using streamlit
     - streamlit run Home.py
 
-![test_1](Images/test_1.png)
-![test_2](Images/test_2.png)   
-![test_3](Images/test_3.png)    
+![test_1](Vacation Rental/Images/test_1.png)
+![test_2](Vacation Rental/Images/test_2.png)   
+![test_3](Vacation Rental/Images/test_3.png)    
