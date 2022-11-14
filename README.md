@@ -27,4 +27,4 @@ Other - </br>
 
 ![test_1](Vacation Rental/Images/test_1.png)
 ![test_2](Vacation Rental/Images/test_2.png)   
-![test_3](Vacation Rental/Images/test_3.png)    
+![test_3](Vacation-Rental-ETH/Vacation Rental/Images/test_3.png)    
